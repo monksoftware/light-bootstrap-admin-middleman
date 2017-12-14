@@ -1,4 +1,11 @@
-## Middleman porting of Light Bootstrap Dashboard admin theme
+## Middleman porting of Light Bootstrap Dashboard free admin theme
+
+## Getting Started
+```
+bundle install
+middleman
+```
+
 
 # [Light Bootstrap Dashboard](http://www.creative-tim.com/product/light-bootstrap-dashboard)
 [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
