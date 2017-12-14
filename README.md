@@ -1,6 +1,9 @@
 ## Middleman porting of Light Bootstrap Dashboard free admin theme
+Middleman4 integration of Creative Tim Light Bootstrap Dashboard (free version)
 
 ## Getting Started
+- Clone the repo: `git clone git@github.com:monksoftware/light-bootstrap-dashboard-middleman.git`.
+
 ```
 bundle install
 middleman
